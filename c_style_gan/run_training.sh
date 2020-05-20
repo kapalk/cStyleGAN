@@ -32,4 +32,5 @@ python3 train.py --version $version \
                  --num_mels $num_mels \
                  --phase $phase \
                  --training_iters $training_iters \
-		         --use_noise
+		         --use_noise \
+                 --use_labels
