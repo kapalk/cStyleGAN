@@ -1,2 +1,2 @@
 # cStyleGAN
-A placeholder repo for the code used in a paper Conditional Speech Generation with StyleGAN
+This repository contains the implementation and audio sampels of Conditional Speech Generation with StyleGAN paper.
